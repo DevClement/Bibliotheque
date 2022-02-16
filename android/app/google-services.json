@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "641012796323",
+    "project_id": "bibliotheque-2a09b",
+    "storage_bucket": "bibliotheque-2a09b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641012796323:android:a2719b4a5c15442ffce816",
+        "android_client_info": {
+          "package_name": "fr.apsi.clement.bibliotheque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641012796323-qn6r4pur56hs8a44anol6cgofgqad53u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8FG8PKpxYsZzdG9vAEEadxawZv7Wml20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641012796323-qn6r4pur56hs8a44anol6cgofgqad53u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641012796323-il76tn0mdi22v5tvc8q2fmjqttrm222o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fr.apsi.clement.bibliotheque"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
